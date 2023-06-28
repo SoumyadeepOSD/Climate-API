@@ -1,5 +1,5 @@
 # **OPEN API**
-![Alt text](image.png)
+![Alt text](./src/image.png)
 ## **Overview**
 -----------------------------------------
 Open Source is everywhere, why not in API? 
@@ -15,7 +15,7 @@ make really cool project and use it in their full-stack application.
 
 - **You will able to see the following page👇🏻**
 
-![Alt text](image-1.png)
+![Alt text](./src/image-1.png)
 
 `Step - 2`
 > base-url = https://climate-api-black.vercel.app/
@@ -26,7 +26,7 @@ make really cool project and use it in their full-stack application.
 
 - **You will able to see the following page👇🏻**
 
-![Alt text](image-2.png)
+![Alt text](./src/image-2.png)
 
 - In each response you will able to see 3 params
 
@@ -34,7 +34,7 @@ make really cool project and use it in their full-stack application.
 >> - **url**
 >> - **source** 
 
-![Alt text](image-3.png)
+![Alt text](./src/image-3.png)
 
 `Step - 3`
 > Go to : base-url/news/source
@@ -43,7 +43,7 @@ make really cool project and use it in their full-stack application.
 
 It contains all the reponses filtering out only for "particular newspaper"
 
-![Alt text](image-4.png)
+![Alt text](./src/image-4.png)
 
 
 ## Don't forget to ⭐ the repo, it encourages me to make more open source projects for communities.
